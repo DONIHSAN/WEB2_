@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 3 } <img src=https://w0.peakpx.com/wallpaper/214/158/HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg width="120px" >
+# Tugas Praktikum { Pertemuan ke 3 } <img src=https://gadoin.com/wp-content/uploads/2021/12/css-logo-0.webp width="120px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -51,9 +51,9 @@
 
 ### 3. Jika ketiga CSS merubah elemen yang sama maka deklarasi tersebut akan mengikuti aturan prioritas dimana prioritas CSS nya seperti ini:
 
-- inline CSS
+- Inline CSS
 - ID selector CSS
-- internal CSS
+- Internal CSS
 
 Ini adalah tampilan coding pada html testing dimana terdapat 2 kalimat yang memiliki elemen yang sama yaitu ``h1`` :
 
@@ -64,7 +64,7 @@ Ini adalah tampilan coding pada html testing dimana terdapat 2 kalimat yang memi
 
 ![](screenshot/ss9.png)
 
-Disitu bisa dilihat terdapat 2 css yang merujuk ke elemen yang sama tapi 1 merujuk dengan ``id yang birisi font 40px dan warna hijau`` sedangkan yang satu lagi merujuk dengan ``class yang berisi font 20 dan warna brown`` dan hasilnya adalah :
+Disitu bisa dilihat terdapat 2 css yang merujuk ke elemen yang sama tapi 1 merujuk dengan ***id yang birisi font 50px dan warna hijau*** sedangkan yang satu lagi merujuk dengan ***class yang berisi font 20px dan warna brown*** dan hasilnya adalah :
 
 ![](screenshot/ss8.png)
 
